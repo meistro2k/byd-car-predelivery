@@ -1,4 +1,4 @@
-# BYD Seal Car Inspection Checklist
+# BYD Seal Car Pre-Delivery Checklist
 
 This checklist is designed to help you thoroughly inspect your BYD Seal car prior to taking delivery.
 
