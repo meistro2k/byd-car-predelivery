@@ -55,4 +55,12 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **Roadside Assistance, complimentary 12-month access** - Set a calendar reminder for 1 month to follow up with BYD customer service if you have not received a confirmation email for the activation of your complimentary 12-month roadside assistance plan.
 - [ ] **Test extended offline NFC card usage** - Settle the car into a sleep state by locking and leaving it alone for 15 minutes. Attempt to unlock the car via the NFC reader. Some users have reported the NFC unlock functionality does not work until the car woken up via an unlock action with the key.
 
+## Community Club and Support Groups
+
+A lot of the information presented here is gathered from owners who have kindly shared their experiences with others. Feel free to pay it forward by joining and contributing to these groups to improve the BYD Seal ownership experience.
+
+- [ ] [BYD Seal Australia Facebook group](https://www.facebook.com/groups/349743024299496)
+- [ ] [Whirlpool Forums - BYD Seal thread](https://forums.whirlpool.net.au/thread/96yz8qz6)
+- [ ] [Reddit - BYD subgroup](https://www.reddit.com/r/BYD/)
+
 By completing this checklist, you can ensure that your new BYD Seal is being delivered to you in the best condition possible.
