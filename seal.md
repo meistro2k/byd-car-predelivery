@@ -4,6 +4,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 
 ## Pre-Requisites
 - [ ] Bring a mobile phone with torch capabilities
+- [ ] Bring USB-A-to-Apple Lightning, or USB-A-to-USB-C cable
 - [ ] Bring a 240v home appliance, to test the V2L capabilities (e.g travel hair dryer)
 - [ ] [Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-purchase-checklist/main/seal.md), and bring it on delivery day.
 
@@ -29,6 +30,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 - [ ] Test DAB+ to confirm that the SIM card is activated and mobile data is operating normally
 - [ ] Test AM/FM Radio for correct radio antenna operation
 - [ ] Test that Navigation app guidance voice can be heard - some cars have issues with no guidance audio being heard while others can only hear the guidance audio coming out of the left-front speaker only.
+- [ ] Test successful operation of wired Apple Car Play/Android Auto
 - [ ] Check tyre pressure monitor screen, ensuring that tyres are correctly inflated
 - [ ] Press the camera button on the steering wheel, and toggle through all cameras to verify that all images are clear
 - [ ] Check that the 3-month/2000km complimentary service reminder schedule has been set
