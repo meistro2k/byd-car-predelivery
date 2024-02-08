@@ -20,22 +20,22 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **Inspect for fine scratches on the lens of exterior cameras** - Some customers don't realise there are hairline cracks till well after delivery
 - [ ] **Test successful front/rear window wipers and washer operation** - ensure appropriately sized wiper blades have been installed
 - [ ] **Test NFC card functionality** - Unlock the car via the NFC reader on the driver-side door mirror. Start the car by putting it on the NFC placeholder, marked on the centre console armrest.
-- [ ] **Inspect for any wheel damage** - ensure there are curb rashes on the wheels during the transportation process
+- [ ] **Inspect for any wheel damage** - ensure NO curb rashes are on the wheels during the transportation process
 - [ ] **Inspect all windows for scratch marks** - recommend the use of a phone torch. Some users have reported scratches on the back window.
 
 ### Interior
 
 - [ ] **Ensure air conditioning temperature is cold** - Ensure 'Auto A/C mode' setting is on "Comfort Normal" at NOT "Eco" mode. Have air flow directly pointing at you. Test at max fan and lowest temperature settings for 5 minutes. Some owners have reported insufficient refrigerant or leaking gassed systems.
-- [ ] **Check for interior stains** - especially on touch-sensitive surfaces like the centre console.
+- [ ] **Check for interior stains** - especially on touch-sensitive surfaces like the centre console and seats.
 
 ### Infotainment
 
-- [ ] **Ensure that "Transport mode" is turned off** - via the shortcut menu (car reportedly stop running after ~5kms of driving)
+- [ ] **Ensure that "Transport mode" is turned off** - via the shortcut menu (car will reportedly stop running after ~5kms of driving)
 - [ ] **SIM card is activated successfully** (Utility Tools > Data)
 - [ ] **Test DAB+ to confirm that the SIM card is activated and mobile data is operating normally**
 - [ ] **Test AM/FM Radio for correct radio antenna operation**
-- [ ] **Test that Navigation app guidance voice can be heard** - some cars have issues with no guidance audio being heard while others can only hear the guidance audio coming out of the left-front speaker only.
-- [ ] **Test successful operation of wired Apple Car Play/Android Auto**
+- [ ] **Test that Navigation app guidance voice can be heard** - some cars have issues with no guidance audio being heard (software version `2310`) while others can only hear the guidance audio coming out of the left-front speaker only.
+- [ ] **Test successful operation of wired Apple Car Play and/or wireless Android Auto**
 - [ ] **Check tyre pressure monitor screen** - ensure that tyres are correctly inflated and matches the pressure label attached below the car's left B-pillar.
 - [ ] **Check camera picture quality** - Press the camera button on the steering wheel, and toggle through all cameras to verify that all images are clear
 - [ ] **Check that the 3-month/2000km complimentary service reminder schedule has been set**
