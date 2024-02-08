@@ -1,6 +1,6 @@
 # BYD Seal Car Pre-Delivery Checklist
 
-This checklist is designed to help new buyers thoroughly inspect their new BYD Seal car before taking delivery.
+This checklist is designed to help new buyers thoroughly inspect their new BYD Seal car before taking delivery. While this checklist caters mostly to the Australian market, most checks apply to worldwide Seal deliveries. 
 
 ## Pre-Requisites
 - [ ] **Bring mobile phone with torch capabilities**
@@ -55,6 +55,8 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **Roadside Assistance, complimentary 12-month access** - Set a calendar reminder for 1 month to follow up with BYD customer service if you have not received a confirmation email for the activation of your complimentary 12-month roadside assistance plan.
 - [ ] **Test extended offline NFC card usage** - Settle the car into a sleep state by locking and leaving it alone for 15 minutes. Attempt to unlock the car via the NFC reader. Some users have reported the NFC unlock functionality does not work until the car woken up via an unlock action with the key.
 
+By completing this checklist, you can ensure that your new BYD Seal is being delivered to you in the best condition possible.
+
 ## Community Club and Support Groups
 
 A lot of the information presented here is gathered from owners who have kindly shared their experiences with others. Feel free to pay it forward by joining and contributing to these groups to improve the BYD Seal ownership experience.
@@ -63,4 +65,6 @@ A lot of the information presented here is gathered from owners who have kindly 
 - [ ] [Whirlpool Forums - BYD Seal thread](https://forums.whirlpool.net.au/thread/96yz8qz6)
 - [ ] [Reddit - BYD subgroup](https://www.reddit.com/r/BYD/)
 
-By completing this checklist, you can ensure that your new BYD Seal is being delivered to you in the best condition possible.
+## Contribution
+
+Seen an error or would like to add to this comprehensive list? Feel free to clone this and submit a pull request. Happy to have this checklist shared and maintained by others.
