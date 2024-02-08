@@ -4,7 +4,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 
 ## Pre-Requisites
 - [ ] Bring a mobile phone with a torch capabilities
-- [ ] Bring a 240v capable appliance (to test the V2L capabilities)
+- [ ] Bring a 240v home appliance, to test the V2L capabilities (e.g travel hair dryer)
 
 ## Pre-Delivery Checks
 
