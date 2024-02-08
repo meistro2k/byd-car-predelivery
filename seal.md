@@ -10,17 +10,22 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 
 ## Pre-Delivery Checks
 
+Give a courtesy heads-up to your sales representative that you would like **30 minutes** to inspect the car and go through the checks below before you sign and take delivery of your car.
+
 ### Exterior
 
 - [ ] **Paintwork Damage** - inspect for swirl marks, scratches, and surface damage from exposure to external environments or improper pre-delivery cleaning
 - [ ] **Check the undercarriage condition** -  Some customers (especially in tropical regions) have had their pre-delivered cars held in flooded holding yards with evidence of mud and flood damage)
-- [ ] **Charge flap paint is consistent with the car paintwork** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork
+- [ ] **Charge flap paint is consistent with the car paintwork** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork (mostly reported on Cosmos Black paint cars). 
 - [ ] **Inspect for fine scratches on the lens of exterior cameras**
 - [ ] **Test successful front/rear window wipers and washer operation**
+- [ ] **Test NFC card functionality** - Unlock the car via the NFC reader on the driver-side door mirror. Start the car by putting it on the NFC placeholder, marked on the centre console armrest.
+- [ ] **Inspect for any wheel damage** - ensure there are curb rashes on the wheels during the transportation process
+- [ ] **Inspect all windows for scratch marks** - recommend the use of a phone torch. Some users have reported scratches on the back window.
 
 ### Interior
 
-- [ ] **Ensure air conditioning temperature is cold** - Ensure setting is on "Normal" at NOT "Eco" mode. Test at max fan and lowest temperature settings for 5 minutes. Some owners have reported insufficient refrigerant or leaking gassed systems.
+- [ ] **Ensure air conditioning temperature is cold** - Ensure 'Auto A/C mode' setting is on "Comfort Normal" at NOT "Eco" mode. Have air flow directly pointing at you. Test at max fan and lowest temperature settings for 5 minutes. Some owners have reported insufficient refrigerant or leaking gassed systems.
 - [ ] **Check for interior stains** - especially on touch-sensitive surfaces like the centre console.
 
 ### Infotainment
@@ -31,7 +36,7 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 - [ ] **Test AM/FM Radio for correct radio antenna operation**
 - [ ] **Test that Navigation app guidance voice can be heard** - some cars have issues with no guidance audio being heard while others can only hear the guidance audio coming out of the left-front speaker only.
 - [ ] **Test successful operation of wired Apple Car Play/Android Auto**
-- [ ] **Check tyre pressure monitor screen** - ensure that tyres are correctly inflated
+- [ ] **Check tyre pressure monitor screen** - ensure that tyres are correctly inflated and matches the pressure label attached below the car's left B-pillar.
 - [ ] **Check camera picture quality** - Press the camera button on the steering wheel, and toggle through all cameras to verify that all images are clear
 - [ ] **Check that the 3-month/2000km complimentary service reminder schedule has been set**
 
@@ -48,5 +53,6 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 - [ ] **Charge car at public charging station** - Ensure that DC charging of your car is successful. [Jolt](https://jolt.com.au/) currently has 7kWh of free charging daily.
 - [ ] **BYD Mobile App** - Set a calendar reminder for two weeks to follow up with BYD customer service if your email address is still not recognised when registering on the BYD App.
 - [ ] **Roadside Assistance, complimentary 12-month access** - Set a calendar reminder for 1 month to follow up with BYD customer service if you have not received a confirmation email for the activation of your complimentary 12-month roadside assistance plan.
+- [ ] **Test extended NFC card usage** - Allow car to be , 15 minutes of car off and locked, car goes into deep sleep state and loses power to NFC reader
 
 By completing this checklist, you can ensure that your new BYD Seal is being delivered to you in the best condition possible.
