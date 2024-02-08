@@ -6,7 +6,7 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 - [ ] **Bring mobile phone with torch capabilities**
 - [ ] **Bring USB-A-to-Apple Lightning, or USB-A-to-USB-C cable**
 - [ ] **Bring one 240v appliance** - to test the V2L capabilities (e.g travel hair dryer)
-- [ ] **[Print this checklist](onclick="window.print();")** - bring it on delivery day
+- [ ] **[Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-predelivery/main/seal.md)** - bring it on delivery day
 
 ## Pre-Delivery Checks
 
