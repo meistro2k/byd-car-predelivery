@@ -38,7 +38,7 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **Test successful operation of wired Apple Car Play and/or wireless Android Auto**
 - [ ] **Check tyre pressure monitor screen** - ensure that tyres are correctly inflated and matches the pressure label attached below the car's left B-pillar.
 - [ ] **Check camera picture quality** - Press the camera button on the steering wheel, and toggle through all cameras to verify that all images are clear
-- [ ] **Check that the 3-month/2000km complimentary service reminder schedule has been set**
+- [ ] **Check that the 3-month/5,000km complimentary service reminder schedule has been set**
 
 ### Accessories
 
