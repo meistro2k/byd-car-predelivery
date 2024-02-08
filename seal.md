@@ -53,6 +53,6 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **Charge car at public charging station** - Ensure that DC charging of your car is successful. [Jolt](https://jolt.com.au/) currently has 7kWh of free charging daily.
 - [ ] **BYD Mobile App** - Set a calendar reminder for two weeks to follow up with BYD customer service if your email address is still not recognised when registering on the BYD App.
 - [ ] **Roadside Assistance, complimentary 12-month access** - Set a calendar reminder for 1 month to follow up with BYD customer service if you have not received a confirmation email for the activation of your complimentary 12-month roadside assistance plan.
-- [ ] **Test extended NFC card usage** - Allow car to be , 15 minutes of car off and locked, car goes into deep sleep state and loses power to NFC reader
+- [ ] **Test extended offline NFC card usage** - Settle the car into a sleep state by locking and leaving it alone for 15 minutes. Attempt to unlock the car via the NFC reader. Some users have reported the NFC unlock functionality does not work until the car woken up via an unlock action with the key.
 
 By completing this checklist, you can ensure that your new BYD Seal is being delivered to you in the best condition possible.
