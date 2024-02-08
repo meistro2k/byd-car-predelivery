@@ -10,16 +10,16 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 
 ## Pre-Delivery Checks
 
-Give a courtesy heads-up to your sales representative that you would like **30 minutes** to inspect the car and go through the checks below before you sign and take delivery of your car.
+Allocate **30 minutes** to inspect the car and go through these checks before you sign and take delivery.
 
 ### Exterior
 
 - [ ] **Paintwork Damage** - inspect for swirl marks, scratches, stone chips, and surface damage from exposure to external environments or improper pre-delivery cleaning
 - [ ] **Undercarriage & Wheel Arches Condition** -  Some customers (especially in tropical regions) have had their pre-delivered cars held in sub-optimal holding yard conditions with the existence of mud and flood damage.
-- [ ] **Charge flap paint consistent with car paintwork** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork (mostly reported on Cosmos Black paint cars). 
+- [ ] **Charge flap paint consistentcy** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork (mostly reported on Cosmos Black paint cars). 
 - [ ] **Inspect for fine scratches on the lens of exterior cameras** - Some customers don't realise there are hairline cracks till well after delivery
-- [ ] **Test successful front/rear window wipers and washer operation** - ensure appropriately sized wiper blades have been installed
-- [ ] **Test NFC card functionality** - Unlock the car via the NFC reader on the driver-side door mirror. Start the car by putting it on the NFC placeholder, marked on the centre console armrest.
+- [ ] **Front/rear window wipers and washer operation** - ensure appropriately sized wiper blades have been installed
+- [ ] **NFC card functionality** - Unlock the car via the NFC reader on the driver-side door mirror. Start the car by putting it on the NFC placeholder, marked on the centre console armrest.
 - [ ] **Inspect for any wheel damage** - ensure NO curb rashes are on the wheels during the transportation process
 - [ ] **Inspect all windows for scratch marks** - recommend the use of a phone torch. Some users have reported scratches on the back window.
 
