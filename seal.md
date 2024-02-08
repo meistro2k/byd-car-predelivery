@@ -6,7 +6,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 - [ ] Bring a mobile phone with torch capabilities
 - [ ] Bring USB-A-to-Apple Lightning, or USB-A-to-USB-C cable
 - [ ] Bring a 240v home appliance, to test the V2L capabilities (e.g travel hair dryer)
-- [ ] [Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-purchase-checklist/main/seal.md), and bring it on delivery day.
+- [ ] [Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-predelivery/main/seal.md), and bring it on delivery day.
 
 ## Pre-Delivery Checks
 
