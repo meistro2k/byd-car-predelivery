@@ -5,6 +5,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 ## Pre-Requisites
 - [ ] Bring a mobile phone with torch capabilities
 - [ ] Bring a 240v home appliance, to test the V2L capabilities (e.g travel hair dryer)
+- [ ] [Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-purchase-checklist/main/seal.md), and bring it on delivery day.
 
 ## Pre-Delivery Checks
 
@@ -12,7 +13,7 @@ This checklist is designed to help you thoroughly inspect your BYD Seal car prio
 
 - [ ] Paintwork damage - inspect for swirl marks, scratches, and surface damage from exposure to external environments or improper pre-delivery cleaning
 - [ ] Check the undercarriage condition -  Some customers (especially in tropical regions) have had their pre-delivered cars held in flooded holding yards with evidence of mud and flood damage)
-- [ ] Charge flap paint is consistent with the car paintwork - Some customers have noticed the metallic speckles on their charge flaps is missing, and does not have the shimmer when compared to the rest of the body paintwork
+- [ ] Charge flap paint is consistent with the car paintwork - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork
 - [ ] Inspect for fine scratches on the lens of exterior cameras
 - [ ] Test successful front/rear window wipers and washer operation
 
