@@ -20,8 +20,8 @@ This checklist is designed to help new buyers thoroughly inspect their new BYD S
 
 ### Interior
 
-- [ ] **Ensure air conditioning temperature is cold** - Test at max cold settings for 5 minutes - Some owners have reported insufficiently gassed systems.
-- [ ] **Check for interior stains** - especially on touch sensitive surfaces like the centre console.
+- [ ] **Ensure air conditioning temperature is cold** - Ensure setting is on "Normal" at not "Eco" mode. Test at max cold settings for 2 minutes. Some owners have reported insufficient refrigerant or leaking gassed systems.
+- [ ] **Check for interior stains** - especially on touch-sensitive surfaces like the centre console.
 
 ### Infotainment
 
