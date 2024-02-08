@@ -1,11 +1,11 @@
 # BYD Seal Car Pre-Delivery Checklist
 
-This checklist is designed to help new buyers thoroughly inspect their new BYD Seal car before taking delivery. While it caters to the Australian market, most checks relevant to worldwide Seal deliveries. 
+This checklist is designed to help new buyers thoroughly inspect their new BYD Seal car before taking delivery. While it caters to the Australian market, most checks are relevant to worldwide Seal deliveries. 
 
-## Pre-Requisites
-- [ ] **Bring mobile phone with torch capabilities**
-- [ ] **Bring USB-A-to-Apple Lightning, or USB-A-to-USB-C cable**
-- [ ] **Bring one 240v appliance** - to test the V2L capabilities (e.g travel hair dryer)
+## Pre-Delivery Check Items
+- [ ] **Phone with camera and torch capabilities**
+- [ ] **USB-A-to-Apple (certified) Lightning, or USB-A-to-USB-C data cable** - to test Apple CarPlay/Android Auto functionality
+- [ ] **One small 240v appliance** - to test the V2L capabilities (e.g travel hair dryer)
 - [ ] **[Print this checklist](https://raw.githubusercontent.com/meistro2k/byd-car-predelivery/main/seal.md)** - bring it on delivery day
 
 ## Pre-Delivery Checks
@@ -14,9 +14,9 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 
 ### Exterior
 
-- [ ] **Paintwork Damage** - inspect for swirl marks, scratches, stone chips and surface damage from exposure to external environments or improper pre-delivery cleaning
-- [ ] **Check the undercarriage condition** -  Some customers (especially in tropical regions) have had their pre-delivered cars held in flooded holding yards with evidence of mud and flood damage.
-- [ ] **Charge flap paint is consistent with the car paintwork** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork (mostly reported on Cosmos Black paint cars). 
+- [ ] **Paintwork Damage** - inspect for swirl marks, scratches, stone chips, and surface damage from exposure to external environments or improper pre-delivery cleaning
+- [ ] **Undercarriage & Wheel Arches Condition** -  Some customers (especially in tropical regions) have had their pre-delivered cars held in sub-optimal holding yard conditions with the existence of mud and flood damage.
+- [ ] **Charge flap paint consistent with car paintwork** - Some customers have noticed the metallic speckles on their charge flaps are missing, and do not have the shimmer when compared to the rest of the body paintwork (mostly reported on Cosmos Black paint cars). 
 - [ ] **Inspect for fine scratches on the lens of exterior cameras** - Some customers don't realise there are hairline cracks till well after delivery
 - [ ] **Test successful front/rear window wipers and washer operation** - ensure appropriately sized wiper blades have been installed
 - [ ] **Test NFC card functionality** - Unlock the car via the NFC reader on the driver-side door mirror. Start the car by putting it on the NFC placeholder, marked on the centre console armrest.
@@ -30,11 +30,11 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 
 ### Infotainment
 
-- [ ] **Ensure that "Transport mode" is turned off** - via the shortcut menu (car will reportedly stop running after ~5kms of driving)
+- [ ] **Ensure that "Transport mode" is turned off** - via the shortcut menu (car will reportedly stop running after ~5kms of driving). The shortcut icon should be removed pre-delivery or removed after to prevent putting the car back into transport mode.
 - [ ] **SIM card is activated successfully** (Utility Tools > Data)
 - [ ] **Test DAB+ to confirm that the SIM card is activated and mobile data is operating normally**
 - [ ] **Test AM/FM Radio for correct radio antenna operation**
-- [ ] **Test that Navigation app guidance voice can be heard** - some cars have issues with no guidance audio being heard (software version `2310`) while others can only hear the guidance audio coming out of the left-front speaker only.
+- [ ] **Test that Navigation app guidance voice can be heard** - some cars have issues with no guidance audio being heard (software version `2310`) while others can only hear the guidance audio coming out of the left-front speaker.
 - [ ] **Test successful operation of wired Apple Car Play and/or wireless Android Auto**
 - [ ] **Check tyre pressure monitor screen** - ensure that tyres are correctly inflated and matches the pressure label attached below the car's left B-pillar.
 - [ ] **Check camera picture quality** - Press the camera button on the steering wheel, and toggle through all cameras to verify that all images are clear
@@ -47,6 +47,12 @@ Give a courtesy heads-up to your sales representative that you would like **30 m
 - [ ] **V2L adaptor is included**
 - [ ] **Test the successful operation of the V2L adaptor**
 - [ ] **2pcs roof shades (front & rear) are included**
+- [ ] **Tyre repair kit**
+
+### Paperwork
+
+- [ ] **Sales contract, Tax Invoice, and Registration papers** - payment dates must be noted for those claiming Government incentives such as EV rebates
+- [ ] **Confirmation of Mobile app activation** - confirm with your sales representative that they have or will register your email for access to the BYD mobile app. This process may take up to 2 weeks.
 
 ## Post-Delivery Checks
 
@@ -67,4 +73,10 @@ A lot of the information presented here is gathered from owners who have kindly 
 
 ## Contribution
 
-Seen an error or would like to add to this comprehensive list? Feel free to clone this and submit a pull request. Happy to have this checklist shared and maintained by others.
+Seen an error or would like to contribute? Clone this repository and submit a pull request!
+
+## Credit
+
+Thank you to the following people for their contributions to the checklist: 
+
+- `David Cheung` from the [BYD Seal Australia](https://www.facebook.com/groups/349743024299496) Facebook group
