@@ -27,6 +27,7 @@ Allocate **30 minutes** to inspect the car and go through these checks before yo
 
 - [ ] **Ensure air conditioning temperature is cold** - Ensure 'Auto A/C mode' setting is on "Comfort Normal" at NOT "Eco" mode. Have air flow directly pointing at you. Test at max fan and lowest temperature settings for 5 minutes. Some owners have reported insufficient refrigerant or leaking gassed systems.
 - [ ] **Check for interior stains** - especially on touch-sensitive surfaces like the centre console and seats.
+- [ ] **Check the Odometer** - Anything between 8km & 30km is acceptable. It's not a bit deal if it's slightly over.
 
 ### Infotainment
 
